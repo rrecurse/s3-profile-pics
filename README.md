@@ -1,0 +1,1 @@
+Replace Gravatar and BuddyPress User Profile images with images from your Amazon S3 account
