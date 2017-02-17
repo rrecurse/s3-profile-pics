@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Amazon S3 Profile Images
-Description: Replace Gravatar abd BuddyPress User Profile images with images from your Amazon S3 account
+Description: Replace Gravatar and BuddyPress User Profile images with images from your Amazon S3 account
 Version: 1.0
 Author: cdebellis
 License: None
